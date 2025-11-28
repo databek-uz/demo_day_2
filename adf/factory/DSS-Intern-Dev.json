@@ -1,0 +1,9 @@
+{
+	"name": "DSS-Intern-Dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a70e9879-a45a-45cf-9f3d-7d43b43e2266",
+		"tenantId": "9024d9d2-3fb5-4370-ab21-ebb3b697cade"
+	}
+}
